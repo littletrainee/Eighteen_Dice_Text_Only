@@ -1,0 +1,15 @@
+H:\A\C#test\EighteenDice\EighteenDice\bin\Debug\net6.0\EighteenDice.exe
+H:\A\C#test\EighteenDice\EighteenDice\bin\Debug\net6.0\EighteenDice.deps.json
+H:\A\C#test\EighteenDice\EighteenDice\bin\Debug\net6.0\EighteenDice.runtimeconfig.json
+H:\A\C#test\EighteenDice\EighteenDice\bin\Debug\net6.0\EighteenDice.dll
+H:\A\C#test\EighteenDice\EighteenDice\bin\Debug\net6.0\EighteenDice.pdb
+H:\A\C#test\EighteenDice\EighteenDice\obj\Debug\net6.0\EighteenDice.csproj.AssemblyReference.cache
+H:\A\C#test\EighteenDice\EighteenDice\obj\Debug\net6.0\EighteenDice.GeneratedMSBuildEditorConfig.editorconfig
+H:\A\C#test\EighteenDice\EighteenDice\obj\Debug\net6.0\EighteenDice.AssemblyInfoInputs.cache
+H:\A\C#test\EighteenDice\EighteenDice\obj\Debug\net6.0\EighteenDice.AssemblyInfo.cs
+H:\A\C#test\EighteenDice\EighteenDice\obj\Debug\net6.0\EighteenDice.csproj.CoreCompileInputs.cache
+H:\A\C#test\EighteenDice\EighteenDice\obj\Debug\net6.0\EighteenDice.dll
+H:\A\C#test\EighteenDice\EighteenDice\obj\Debug\net6.0\refint\EighteenDice.dll
+H:\A\C#test\EighteenDice\EighteenDice\obj\Debug\net6.0\EighteenDice.pdb
+H:\A\C#test\EighteenDice\EighteenDice\obj\Debug\net6.0\EighteenDice.genruntimeconfig.cache
+H:\A\C#test\EighteenDice\EighteenDice\obj\Debug\net6.0\ref\EighteenDice.dll
