@@ -1,0 +1,1 @@
+﻿# Some C# function Pratice 
